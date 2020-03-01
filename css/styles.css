@@ -5,6 +5,9 @@ body {
   font-size: 14;
   color: #FFB997;
 }
+h1 {
+  text-align: center;
+}
 .nav{
     border:1px solid #ccc;
     border-width:1px 0;

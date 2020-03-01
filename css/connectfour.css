@@ -1,29 +1,16 @@
 body {
   font-family: "Roboto", monospace;
-  padding: 0.1px; /* prevent margin overflow */
+  padding: 0px; /* prevent margin overflow */
   margin: 0;
 }
 
 .title {
   font-size: 2rem;
 }
-@media (max-width: 460px) {
-  .title {
-    font-size: 1.66rem;
-  }
-}
-
 .wrapper {
   margin: 50px auto 0;
   width: 450px;
 }
-@media (max-width: 460px) {
-  .wrapper {
-    margin: 20px auto 0;
-    width: 240px;
-  }
-}
-
 .keyboard-friendly {
   position: absolute;
   left: 0;
