@@ -7,6 +7,8 @@ body {
 }
 h1 {
   text-align: center;
+  font-size: 40px;
+  color: #F67E7D;
 }
 .nav{
     border:1px solid #ccc;
@@ -24,5 +26,8 @@ h1 {
     padding:10px;
     text-decoration: none;
     color: #348C93;
+}
+.nav a:hover{
+    color: #61C6CE;
 }
 /*#FFB997 #F67E7D #843B62 #621940 #0B032D*/
