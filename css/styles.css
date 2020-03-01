@@ -1,9 +1,9 @@
 body {
-  background-color: #FFEA9E;
+  background-color: #222222;
   font-family: "Roboto", monospace;
   font-style: italic;
   font-size: 14;
-  color: #348C93;
+  color: #FFB997;
 }
 .nav{
     border:1px solid #ccc;
@@ -22,3 +22,4 @@ body {
     text-decoration: none;
     color: #348C93;
 }
+/*#FFB997 #F67E7D #843B62 #621940 #0B032D*/

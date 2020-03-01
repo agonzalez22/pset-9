@@ -64,7 +64,7 @@ var score = 0;
 var lives = 3;
 
 function drawStats() {
-  context.font = '16px Gugi';
+  context.font = '16px Roboto';
   context.fillStyle = theme.statColor;
   context.fillText('Score: ' + score, 8, 20);
   context.fillText('Lives: ' + lives, canvas.width - 70, 20);

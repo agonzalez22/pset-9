@@ -9,7 +9,7 @@ body {
   background-color: #222222;
   color: #FFB997;
 }
-/*#FFB997 #F67E7D #843B62 #621940 #0B032D
+
 /*
  * The header has a different font than the rest of the page. It's the title, so
  * it makes sense to make it a little different (and bigger).
@@ -43,8 +43,7 @@ h2 {
 .container {
   display: flex;           /* set our display property to use flex-box */
   justify-content: center; /* center container horizontally */
-  align-items: center;
-  border-color: #74546A;     /* center content vertically */
+  align-items: center;     /* center content vertically */
 }
 
 
