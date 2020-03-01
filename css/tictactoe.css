@@ -88,7 +88,7 @@ h2 {
  */
 
 .square {
-  border: 1px solid rgba(42, 140, 147, 0.75);
+  border: 1px solid;
   height: 150px;
   user-select: none;
   width: 150px;
@@ -141,7 +141,7 @@ h2 {
 #reset-button {
   background-color: #222222;
   border: 1px solid #F67E7D;;
-  color: #74546A;
+  color: #FFB997;
   font-size: 21px;
   line-height: 55px;
   margin: 1%;
@@ -155,7 +155,7 @@ h2 {
  */
 
 #reset-button:hover, #score-reset:hover {
-  background-color: #F67E7D;
+  background-color: #348C93;
   color: #222222;
   cursor: pointer;
 }
@@ -170,6 +170,7 @@ h2 {
   line-height: 150px;
   user-select: none;
   width: 150px;
+  border-color: #348C93;
 }
 table, th, td {
   padding: 10px;
@@ -195,7 +196,7 @@ table, th, td {
 }
 #score-reset {
   border: 1px solid #F67E7D;
-  color: #74546A;
+  color: #FFB997;
   font-size: 18px;
   line-height: 25px;
   margin: 1%;
@@ -210,6 +211,7 @@ table, th, td {
 input {
   background-color: #222222;
   border-color: #F67E7D;
+  border-style: solid, 1px;
   color: #FFB997;
   font-family: 'Roboto',monospace;
   font-size: 14px;
