@@ -2,6 +2,7 @@ body {
   font-family: "Roboto", monospace;
   padding: 0px; /* prevent margin overflow */
   margin: 0;
+  background-color: #222222;
 }
 
 .title {
@@ -17,11 +18,6 @@ body {
   bottom: 0;
   padding: 12px;
   background: rgba(255,255,255,0.75);
-}
-
-.keyboard-friendly-img {
-  width: 70px;
-  display: block;
 }
 
 .board button {
