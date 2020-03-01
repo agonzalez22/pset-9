@@ -7,10 +7,10 @@ canvas.height = 450;
 
 // Theme
 var theme = {
-  ballColor: '#FF55B1',
-  paddleColor: '#3DA1FF',
-  brickColor: '#8DA703',
-  statColor: '#FFC63E'
+  ballColor: '#74546A',
+  paddleColor: '#0B032D',
+  brickColor: '#348C93',
+  statColor: '#FFB997'
 };
 
 // Ball

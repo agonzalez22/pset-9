@@ -2,7 +2,7 @@ body {
   background-color: #222222;
 }
 canvas {
-  border: 5px solid #A157FC;
+  border: 5px solid #F67E7D;
   border-radius: 7px;
 }
 #container {
@@ -10,3 +10,10 @@ canvas {
 	position: absolute;
 	text-align: center;
 }
+h2 {
+	text-align: center;
+	color: #F67E7D;
+	font-family: "Roboto", monospace;
+	font-style: italic;
+}
+/*#FFB997 #F67E7D #843B62 #621940 #0B032D*/
