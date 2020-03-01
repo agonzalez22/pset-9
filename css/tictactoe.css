@@ -210,4 +210,7 @@ table, th, td {
 input {
   background-color: #222222;
   border-color: #F67E7D;
+  color: #FFB997;
+  font-family: 'Roboto',monospace;
+  font-size: 14px;
 }
