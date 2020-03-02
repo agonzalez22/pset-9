@@ -2,7 +2,7 @@ body {
   background-color: #222222;
 }
 canvas {
-  border: 5px solid #F67E7D;
+  border: 5px solid #F67E7D; /* borders */
   border-radius: 7px;
 }
 h1 {
